@@ -1,4 +1,5 @@
-Here is the list of patterns Solved in order:
+
+Here is the list of patterns Solved in Java: 
 
 1. Rectangular Star Pattern
 2. Right Angle Triangle Pattern
